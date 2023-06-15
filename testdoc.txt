@@ -1,2 +1,3 @@
 test-rev 1
 test new nranch
+test local pull
